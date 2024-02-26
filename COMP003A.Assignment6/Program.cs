@@ -1,6 +1,6 @@
 ﻿/*
- * Author: Jonathan Cruz
- * Course: COMP-003A
+ * Author: Zachary Walker
+ * Course: COMP-003A-L01
  * Purpose: Object-oriented programming concepts for week 6
  */
 
